@@ -1,3 +1,8 @@
 otro cambio
 
+<<<<<<< HEAD
 ahora con cambio de linea, mas texto hola
+=======
+ahora con cambio de linea, mas texto
+linea3
+>>>>>>> rama_2
